@@ -46,6 +46,8 @@ project_root/
 ## Conclusion
 The final model provides a solution for analyzing social media sentiment efficiently. Based on performance comparisons, LightGBM and Logistic Regression were chosen as the optimal models due to their balance between accuracy and speed.
 
+However, social media posts have a great degree of subjectivity and interpretation. These are made of human language and these ML models might not be the best option when it comes to get the subtle nuances of human language (irony, metaphors, etc.). One option for further research would be to use a LLM to classify them as LLM normally tend to have a better performance in NLP tasks. 
+
 ---
 # ML_Binary_Classification_Tweets
 
@@ -94,6 +96,8 @@ project_root/
 
 ## Conclusión
 El modelo final proporciona una solución eficiente para el análisis de sentimiento en redes sociales. Basado en comparaciones de rendimiento, LightGBM y Regresión Logística fueron elegidos como los modelos óptimos debido a su equilibrio entre precisión y velocidad.
+
+Sin embargo, las publicaciones en las redes sociales tienen un gran grado de subjetividad e interpretación, normal en el lenguaje humano y estos modelos de Machine Learning podrían no ser la mejor opción cuando se trata de captar los matices sutiles del lenguaje humano (ironía, metáforas, etc.). Una opción para futuras investigaciones sería utilizar un LLM para clasificarlos, ya que los LLM normalmente tienden a tener un mejor rendimiento en tareas de PNL. 
 
 ---
 
