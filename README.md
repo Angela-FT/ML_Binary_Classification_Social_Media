@@ -20,7 +20,7 @@ The approach followed in this project includes:
 - Data preprocessing (cleaning and transforming text data)
 - Exploratory Data Analysis (EDA) to understand dataset characteristics
 - Feature engineering, including text vectorization techniques
-- Training and evaluation of multiple machine learning models
+- Training and evaluation of the 3 ML models
 - Selecting the best model based on performance metrics
 - Final model interpretation and conclusion
 
@@ -71,7 +71,7 @@ El enfoque seguido en este proyecto incluye:
 - Preprocesamiento de datos (limpieza y transformación de texto)
 - Análisis exploratorio de datos (EDA) para comprender las características del dataset
 - Ingeniería de características, incluyendo técnicas de vectorización de texto
-- Entrenamiento y evaluación de múltiples modelos de aprendizaje automático
+- Entrenamiento y evaluación de los 3 modelos de ML
 - Selección del mejor modelo basado en métricas de rendimiento
 - Interpretación del modelo final y conclusiones
 
